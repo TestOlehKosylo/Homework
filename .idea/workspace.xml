@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="725b7ac3-e4ed-439a-9025-f36a2a0daa7a" name="Default Changelist" comment="" />
+    <list default="true" id="725b7ac3-e4ed-439a-9025-f36a2a0daa7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/HTML/hm1/hm1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ieYGPr0oT4wSnpiVt8teSpa0fg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602269428649</updated>
-      <workItem from="1602269429753" duration="1644000" />
+      <workItem from="1602269429753" duration="1801000" />
     </task>
     <servers />
   </component>
@@ -52,6 +64,14 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="466" y="155" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1602270954556" />
+    <state x="295" y="299" width="536" height="285" key="Github.ShareDialog" timestamp="1602271110197">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="295" y="299" width="536" height="285" key="Github.ShareDialog/0.27.1366.741@0.27.1366.741" timestamp="1602271110197" />
+    <state x="494" y="27" width="367" height="741" key="Github.UntrackedFilesDialog" timestamp="1602271122240">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="494" y="27" width="367" height="741" key="Github.UntrackedFilesDialog/0.27.1366.741@0.27.1366.741" timestamp="1602271122240" />
     <state x="172" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1602271075273">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
